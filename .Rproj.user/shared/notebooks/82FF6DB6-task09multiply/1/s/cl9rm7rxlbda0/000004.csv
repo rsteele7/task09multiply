@@ -1,0 +1,25 @@
+"0","library(task09multiply)"
+"2","
+Attaching package: ‘task09multiply’
+
+"
+"2","The following object is masked _by_ ‘.GlobalEnv’:
+
+    multiply
+
+"
+"0","multiply(2,3)"
+"1","[1]"
+"1"," 6"
+"1","
+"
+"0","multiply(9,8)"
+"1","[1]"
+"1"," 72"
+"1","
+"
+"0","multiply(37, 25)"
+"1","[1]"
+"1"," 925"
+"1","
+"

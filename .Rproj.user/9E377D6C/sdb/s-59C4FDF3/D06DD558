@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Task 09 Multiplier Package Vignette\"\nauthor: \"Rachel Steele\"\ndate: \"`r Sys.Date()`\"\noutput: rmarkdown::html_vignette\nvignette: >\n  %\\VignetteIndexEntry{Task 09 Multiplier Package Vignette}\n  %\\VignetteEngine{knitr::rmarkdown}\n  %\\VignetteEncoding{UTF-8}\n---\n\n#Task 09 Multiplier Package Vignette\nThis package uses one function to take two user-inputted numbers and multiplies them with one another. \n\n##Examples:\n\n```{r}\nlibrary(task09multiply)\nmultiply(2,3)\nmultiply(9,8)\nmultiply(37, 25)\n```\n\n",
+    "created" : 1490110408473.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "511957251",
+    "id" : "D06DD558",
+    "lastKnownWriteTime" : 1490110812,
+    "last_content_update" : 1490111241465,
+    "path" : "~/task09multiply/vignettes/task09multiply.Rmd",
+    "project_path" : "vignettes/task09multiply.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

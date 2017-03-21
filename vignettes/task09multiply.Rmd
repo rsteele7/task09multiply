@@ -1,0 +1,23 @@
+---
+title: "Task 09 Multiplier Package Vignette"
+author: "Rachel Steele"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Task 09 Multiplier Package Vignette}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+#Task 09 Multiplier Package Vignette
+This package uses one function to take two user-inputted numbers and multiplies them with one another. 
+
+##Examples:
+
+```{r}
+library(task09multiply)
+multiply(2,3)
+multiply(9,8)
+multiply(37, 25)
+```
+

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: task09multiply\nType: Package\nTitle: An R Package to Multiply Two Values\nVersion: 0.1.0\nAuthor: Rachel Steele\nMaintainer: Rachel Steele <rsteele7@vols.utk.edu>\nDescription: This package takes two user-inputted values and multiplies them.\nLicense: CC0\nEncoding: UTF-8\nLazyData: true\nRoxygenNote: 6.0.1\nSuggests: testthat,\n    knitr,\n    rmarkdown\nVignetteBuilder: knitr\n",
+    "created" : 1490107011029.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "681030152",
+    "id" : "FB8F4575",
+    "lastKnownWriteTime" : 1490110407,
+    "last_content_update" : 1490110407,
+    "path" : "~/task09multiply/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

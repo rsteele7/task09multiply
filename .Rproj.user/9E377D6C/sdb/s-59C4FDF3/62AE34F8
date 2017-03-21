@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#' Multiply two numbers.\n#'\n#' @param val1 A number\n#' @param val2 a number\n#' @examples\n#' multiply(2,3)\n#' multiply(4,5)\nmultiply <- function(val1, val2) { # User inputs data.\n  multval <- val1*val2 # The numbers are multiplied.\n  return(multval) # The multiplied value is returned.\n}\n",
+    "created" : 1490106851526.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4124996317",
+    "id" : "62AE34F8",
+    "lastKnownWriteTime" : 1490109853,
+    "last_content_update" : 1490109853631,
+    "path" : "~/task09multiply/R/multiply.R",
+    "project_path" : "R/multiply.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

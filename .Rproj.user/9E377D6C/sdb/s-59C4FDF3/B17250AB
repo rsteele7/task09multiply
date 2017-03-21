@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(testthat)\nlibrary(task09multiply)\n\ntest_check(\"task09multiply\")\n",
+    "created" : 1490109239949.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3555107238",
+    "id" : "B17250AB",
+    "lastKnownWriteTime" : 1490110219,
+    "last_content_update" : 1490110219450,
+    "path" : "~/task09multiply/tests/testthat.R",
+    "project_path" : "tests/testthat.R",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
