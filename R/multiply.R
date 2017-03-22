@@ -1,4 +1,4 @@
-#' Multiply two numbers.
+#' ---------------Multiply two numbers.----------------
 #'
 #' @param val1 A number
 #' @param val2 a number
