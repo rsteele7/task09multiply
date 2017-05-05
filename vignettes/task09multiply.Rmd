@@ -9,13 +9,17 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 
-#Task 09 Multiplier Package Vignette
 This package uses one function to take two user-inputted numbers and multiplies them with one another. 
 
-##Examples:
+In order to run the function, the user should input two integers which he wants to multiply, and the function will multiply them and return the result.
+
+## Examples:
 
 ```{r}
+#--------loading the package--------#
 library(task09multiply)
+
+#--------executing commands---------#
 multiply(2,3)
 multiply(9,8)
 multiply(37, 25)
